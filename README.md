@@ -1,4 +1,4 @@
-I'm Eunsik a passionate software developer based in Japen.
+I'm Eunsik a passionate software developer
 
 I enjoy exploring various programming languages and frameworks, with a strong focus on C++, Rust, and C#.
 
