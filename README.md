@@ -1,4 +1,4 @@
-I'm Eunsik a passionate software developer
+I'm Eunsik, a passionate software developer.
 
 I enjoy exploring various programming languages and frameworks, with a strong focus on C++, Rust, and C#.
 
@@ -6,15 +6,17 @@ My journey in software development has been shaped by a continuous curiosity for
 
 🚀 About Me
 
-🔧 I have experience in building tools and systems for efficient data processing and automation.
-
-🛠️ Currently, I’m exploring advanced applications of Rust in systems programming.
-
+🔧 I have experience in building tools and systems for efficient data processing and automation.  
+🛠️ Currently, I’m exploring advanced applications of Rust in systems programming.  
 🌱 I’m always eager to learn new things, from software architectures to the latest in AI and machine learning.
 
 📫 Get in Touch
 
-I'm always open to connecting with fellow developers and collaborators. Feel free to reach out through Your LinkedIn Profile or send a message here on GitHub!
+I'm always open to connecting with fellow developers and collaborators. Feel free to reach out through your LinkedIn profile or send a message here on GitHub.
+
+👉 **Please note:** Most of my repositories have been migrated to [https://git.kudryavka.me/](https://git.kudryavka.me/).  
+Feel free to visit there for the latest updates on my work!
+
 
 
 <div align="center">
