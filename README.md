@@ -14,11 +14,6 @@ My journey in software development has been shaped by a continuous curiosity for
 
 I'm always open to connecting with fellow developers and collaborators. Feel free to reach out through your LinkedIn profile or send a message here on GitHub.
 
-👉 **Please note:** Most of my repositories have been migrated to [https://git.kudryavka.me/](https://git.kudryavka.me/).  
-Feel free to visit there for the latest updates on my work!
-
-
-
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rinechran)](https://solved.ac/rinechran/)
